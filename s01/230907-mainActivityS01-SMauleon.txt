@@ -1,1 +1,2 @@
 Hello, I am Svetlan Mauleon, you can call me Svet for short.
+I'm currently a student at De La Salle University - Dasmariñas, and I'm also doing an internship as a frontend developer. It's been a really great experience using what I've learned in the real world. At school, we've been getting into machine learning, working on projects, and solving some tricky machine problems. It's been eye-opening to see how machine learning can have a big impact on real-life stuff, and it's got me super excited to keep learning more about it.
